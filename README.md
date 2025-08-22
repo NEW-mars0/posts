@@ -1,4 +1,4 @@
-# 📤 Post Uploader App
+#  Post Uploader App
 
 A simple, modern web application for uploading posts with text and file attachments. Easily create, view, and share posts with images, documents, and more.
 
@@ -82,6 +82,6 @@ npm start
 
 ---
 
-## 📄 License
+##  Creator
 
-MIT © [Your Name](https://github.com/your-username)
+MIT © [Mars0](https://github.com/New-mars0)
