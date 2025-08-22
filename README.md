@@ -1,12 +1,7 @@
-#  Post Uploader App
+#  Roblox Catweb Scripting Assistance (Personal)
 
-A simple, modern web application for uploading posts with text and file attachments. Easily create, view, and share posts with images, documents, and more.
+So basically I play this game on Roblox called Catweb. Catweb is a game that lets you make fake websites in Roblox. I'm only doing this so that i can remember the script and stuff.
 
-![Post Uploader Demo](demo-screenshot.png)
-
-[![Node.js](https://img.shields.io/badge/backend-Node.js-green?logo=node.js)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/frontend-React-blue?logo=react)](https://react.dev/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 
 ---
 
